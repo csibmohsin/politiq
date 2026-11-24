@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Antigravity & Agent workspace artifacts
+.gemini/
+.system_generated/
+scratch/
+test_*.js
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
